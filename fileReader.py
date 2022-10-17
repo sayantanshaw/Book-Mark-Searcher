@@ -2,6 +2,11 @@ from bs4 import BeautifulSoup
 
 
 def HtmlReader():
+    """
+    Note: Parses the bookmark html file using BeautifulSoup to get the url of bookmarked websites
+    Input: None
+    Output: ans(List of bookmarked URLs)
+    """
     with open("bookmarks_9_9_22.html", 'r', encoding='utf-8') as f:
         cont = f.read()
         ans = list()

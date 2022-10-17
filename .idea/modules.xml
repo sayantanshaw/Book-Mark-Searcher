@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ArcherMate/.idea/ArcherMate.iml" filepath="$PROJECT_DIR$/../ArcherMate/.idea/ArcherMate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bookmarkSearcher.iml" filepath="$PROJECT_DIR$/.idea/bookmarkSearcher.iml" />
     </modules>
   </component>
